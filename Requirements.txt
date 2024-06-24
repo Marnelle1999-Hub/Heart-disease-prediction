@@ -1,9 +1,0 @@
-Streamlit
-Pandas
-Numpy
-Scikit-learn
-Altair
-Matplotlib
-Seaborn
-Joblib
-Datetime
