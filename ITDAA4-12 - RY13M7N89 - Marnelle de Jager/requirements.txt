@@ -1,4 +1,3 @@
-altair
 matplotlib
 seaborn
 streamlit
