@@ -1,9 +1,8 @@
-Streamlit
-Pandas
-Numpy
-Scikit-learn
-Altair
-Matplotlib
-Seaborn
-Joblib
-Datetime
+altair
+matplotlib
+seaborn
+streamlit
+joblib
+numpy
+pandas
+scikit-learn
